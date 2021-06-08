@@ -1,0 +1,612 @@
+,node1,node2,time,dist
+0,14/15,15 Mkt,3,0.9
+1,16 Mkt,ISBT-17,5,2.2
+2,18 Mkt,19 Mkt,3,0.9
+3,27 Mkt,28 Mkt,3,1.1
+4,CTU W/Shop,Railway Station,3,1.5
+5,Railway Crossing,HB Chowk,1,0.5
+6,Manimajra,MM Town,2,1.2
+7,M Complex,Railway Lights,3,1.5
+8,26 Grain Mkt,GGSC-26,4,1.4
+9,7-A/7-B,7/8,3,1.1
+10,8 Mkt,9 Mkt,2,0.8
+11,10 Mkt,11 Mkt,2,0.8
+12,OPD,11 mkt,4,1.8
+13,10 mkt,9 mkt,2,0.9
+14,8 mkt,7 mkt,2,0.8
+15,SGGS College,Sec-26/28,3,1.5
+16,Railway Crossing,M/Complex,3,1.8
+17,M/Majra Town,M/Majra,3,1.6
+18,Railway Crossing,Railway Station,3,1.2
+19,CTU W/Shop,Sec-28 mkt,2,1
+20,27 mkt,19 mkt,3,4.6
+21,18 mkt,22/17,1,5.7
+22,16 mkt,15 mkt,5,1.4
+23,Indira Colony,M.M. Town,1,3.5
+24,Railway Crossing,Sec- 28/26 G. Mkt,1,2.5
+25,19/7,18/8,5,1.3
+26,22/17,16/10,4,2
+27,15/11,PGI,1,3.2
+28,Khuda Lahora,S/P Barrier,5,3.8
+29,Dhanas,DMC,3,2.1
+30,CTU Workshop,Sec-25/38,5,4.9
+31,25/24,24/15,1,0.5
+32,23/16,ISBT-17,3,4.4
+33,ISBT-17,18/21,4,4.2
+34,19/20,27/30,1,4.1
+35,28/29,Elante Mall,4,5.8
+36,Colony No.- 4,CTU Workshop,2,3.4
+37,CTU Workshop,Railway Station,4,4.2
+38,Railway Crossing,HB Chowk,2,3.8
+39,Kalagram,Railway Station,5,2.3
+40,R/Station,CTU w/shop,4,4
+41,Colony.No-4,Elante Mall,1,1.3
+42,Elante Mall,Sec-29/28,2,3.4
+43,30/27,20/19,1,4
+44,21/18,22/17,5,2.6
+45,22/17,16/23,5,2.2
+46,15/24,24/25,5,3.8
+47,38/25,CTU w/shop,3,4.4
+48,CTU w/shop,DMC,2,3.6
+49,Dhanas,SP Barrier,3,2.7
+50,K.Lahora,PGI,4,5.9
+51,PGI,11/15,2,1.4
+52,10/16,ISBT-17,5,3.7
+53,ISBT-17,8/18,4,4.6
+54,7/19,26/28 G.Mkt,5,4.5
+55,M/Complex,M.M. Town,5,2
+56,M.M. Town,Indra Colony,1,3.3
+57,OPD,10/11,3,2.9
+58,ISBT-17,18/17,5,4.5
+59,7/19,26/27,3,5.5
+60,26/28 G/Mkt,CTU w/s,5,4
+61,R/Station,Kalagram,5,5.8
+62,H.B. Chowk,M/Majra (vice versa),4,3.2
+63,New OPD,10/11,1,0.6
+64,10/11,10/16,1,4.7
+65,ISBT-17,8/18,2,3.8
+66,7/19,26/27,5,3.6
+67,26/27,Grain Market,1,5.2
+68,CTU Workshop,R. Station,3,1.4
+69,R. Crossing,Kalagram,2,2.5
+70,Kalagram,H. Board,2,0.8
+71,Manimajra,Indira Colony,1,2.6
+72,Indira Colony,Kishangarh,5,1.9
+73,43/44,35/34,3,2
+74,Aroma,22/17,3,1.5
+75,22/17,16/17,5,1.6
+76,R/Garden,16/10 Hospital,5,5.9
+77,OPD,PGI,1,3.7
+78,PGI,K/Lahora,3,0.7
+79,S/P/Barrier,Dhanas,4,4.7
+80,DMC,CTU Depot-III. 38west,5,0.7
+81,Maloya,Ph-6,1,2.3
+82,Old Barrier,Frenko Hotel,1,5
+83,Badheri Chowk,40/41,4,2.5
+84,41 mkt,42 mkt,5,3.5
+85,Sec-43/44,42 mkt,4,4.9
+86,42 mkt,41mkt,3,3.2
+87,41/40,Badheri Chowk,5,5.2
+88,Frenko Hotel,O/Barrier,3,4.3
+89,Maloya,38west,1,5.9
+90,CTU Depot-III,DMC,2,5.2
+91,Dhanas,S/P/Barrier,5,4.5
+92,PGI,OPD,3,5
+93,OPD,10/11,4,0.9
+94,10/11,10/16,3,3.7
+95,10/16,17/16,2,4.2
+96,ISBT-17,Aroma,3,1.6
+97,Aroma,34/35,3,5.5
+98,Sec-47 mkt,46/47,2,4.3
+99,31/32,30/29,2,3.6
+100,27/28,27/26,4,5.5
+101,18/8,17/9,1,1.6
+102,PGI,Uni.,1,4.9
+103,15/14,24/25,1,3.4
+104,24/25,37/38,4,4.4
+105,40/38,39/38west,3,5.8
+106,Maloya,39,4,4.8
+107,40,41,3,1.8
+108,42 mkts,ISBT-43,4,1.2
+109,44,45,3,2.7
+110,46,47 mkts,5,4.2
+111,Sec-47 mkt,46,2,0.7
+112,45,44 mkts,3,3.6
+113,ISBT43,43/44,5,2.6
+114,43/44,42,1,3.6
+115,40,39 mkts,1,3.6
+116,Maloya,38/39,2,1
+117,38/40,38/37,4,5
+118,25/24,14/15,1,0.9
+119,PGI,11/15,4,5.3
+120,10/16,9/17,5,4.9
+121,8/18,19/7,1,2.7
+122,19/7,26/27,3,1.8
+123,26/27,28/27,3,4.5
+124,29/30,31/32,2,5.3
+125,31/32,47/46,4,3.5
+126,Sec-22/17,22/23,3,4.5
+127,23,24 mkts,1,1.5
+128,38/25,38west,5,5.6
+129,Maloya,38/39,3,5.6
+130,38/39,38 mkt,4,4.8
+131,37 mkt,36/37,5,3.4
+132,42/41,ISBT-43,2,0.8
+133,ISBT-43,Attawa,4,3.1
+134,35mkt,34 mkt,5,2.7
+135,34,33,3,2.7
+136,32,31mkts,1,1.4
+137,Ram Darbar,Indl.Area Ph-II,5,2.3
+138,Tribune Chowk,29,2,1
+139,30,20,3,4
+140,21 mkts,22 mkt,2,4.5
+141,22/23,22 mkt,3,4.6
+142,22 mkt,21,1,2.2
+143,30,29 mkts,2,4.9
+144,Tribune,Ram Darbar,3,5.6
+145,Ram Darbar,31,3,5.8
+146,34,35 mkts,5,1.7
+147,ISBT-43,43/44,3,5.7
+148,43/44,42 mkt,2,4.7
+149,42 mkt,41/42,2,2.2
+150,37/36,37,5,2.5
+151,38 mkts,39/38 west. Maloya,4,3.9
+152,38west,25/38,3,1.8
+153,25/24,24,3,2.7
+154,23 mkts,23/22,5,1
+155,M/Majra,H.Board,4,5.6
+156,Kalagram,R/Cross.,3,1.8
+157,28/26G/Mkt. 27/26,27/19,2,3.7
+158,30/20,32/33,2,1.9
+159,46/45,50/49,3,3.5
+160,64/63,68/67,4,3.8
+161,Sec-67,Mandikaran Houses,2,2.4
+162,Sec-66 P/Chowki,Ph-11,5,4.8
+163,Jagatpura,47 outer,1,0.6
+164,R/Darbar,Ind.Area Ph-2,3,5.9
+165,Trib.Chowk,29 Nursery,1,4.2
+166,28 P/Pump,CTU w/s,5,2.5
+167,CTU w/s,R/S,1,4.2
+168,R/C,H.Board,1,3.8
+169,M.majra,H.B Chowk,3,5.4
+170,Kalagram,R.Crossing,5,1.1
+171,R.Station,CTU W/Shop 28 P.Pump,3,3.3
+172,Indl. Area ph-1,Tribune Chowk,2,3.5
+173,Tribune Chowk,Indl. Area Ph-2,1,1.4
+174,Ramdarbar,Outer 47,4,0.7
+175,Ph-11,Police Chowki Sec-66,4,3.8
+176,Sec-67,67/68,5,1.7
+177,63/64,49/50,4,2.2
+178,45/46,33/32,4,5.1
+179,20/30,27/19,4,2.1
+180,27/19,26/27,2,2.6
+181,26/27,26/28,5,4
+182,TPT/C,R.Crossing,5,3.6
+183,R.Crossing,H.B.C,2,2.1
+184,Sec 43/44,Sec-44/51,5,0.9
+185,46,47mkts,1,0.5
+186,Ram Darbar,Tribune Chowk,4,3.3
+187,Tribune Chowk,H/Majra Chowk,3,1.8
+188,Colony No.-4,CTU w/s,1,5.8
+189,R/Station,Kalagram,2,5.4
+190,Kalagram,H/B Chowk,5,0.8
+191,H/B Chowk,M/Majra..(vice versa),1,3.3
+192,Sec-17/18,9/8,2,2.3
+193,9mkt,MLA Flat,4,5.8
+194,H/Court,Pb.Civil.Sectt & vice versa Spl.Trip School Sec-18 From Ramdarbar,3,5.2
+195,Sec 43/44,42/43,3,2.3
+196,Sec- 36/35,23/22,4,5.1
+197,23/22,ISBT17,2,2.7
+198,Aroma,21,5,4.7
+199,21,20,4,0.7
+200,30,29 mkts,5,1.8
+201,29 mkts,Elante Mall,2,1.6
+202,Elante Mall,H/Majra,5,4.4
+203,Sec 43/44,42/43,3,1.8
+204,42/43,Sec-36/35,5,3.5
+205,23/22,17 B/S,3,0.7
+206,17/18,9/8,5,5.3
+207,9/8,9 mkt,1,1.5
+208,9 mkt,MLA Flat,2,2.2
+209,MLA Flat,Pb.Civil.Sectt,4,3.3
+210,H/Court,Lake,5,0.8
+211,Sec43/44,42 Mkt,3,2.1
+212,37/36,37 Mkt,2,2
+213,38/37,24/37 Consumer/Court,1,1.7
+214,23/36,23/22,2,3.6
+215,23/22,Sec-17 CAT,3,2.3
+216,ISBT-17,17/18,4,0.5
+217,9/8,9 Mkt,4,1.3
+218,9 Mkt,MLA/F,3,4.5
+219,Sec 43/44,42/43,4,5.7
+220,42/43,36/35,1,3.1
+221,23/22,ISBT-17,1,0.7
+222,ISBT-17,18,2,4.6
+223,19,27,2,3.3
+224,28 mkts,CTU w/s,5,1.3
+225,R/Crossing,Kalagram,5,5.6
+226,Kalagram,H/B Chowk,4,1.9
+227,M/Majra,Kishangarh,5,1.7
+228,Kishangarh,I.T.Park (vice versa),3,0.6
+229,Sec-43/44,35/34,2,0.7
+230,22/17,Hospital16/10,3,2.7
+231,PGI,New OPD,3,0.8
+232,New OPD,PEC,3,3.8
+233,Sec- 43/44,35/34,1,3.1
+234,22/17,16/10 (Hospital),5,1.9
+235,Sec .43/44,42/43,4,0.5
+236,42/43,Sec- 36/35 23/22,2,3.5
+237,Sec-16/10,15/11,2,0.6
+238,PGI,K/Lahora,3,3.4
+239,K/Lahora,S/P Barrier,5,3
+240,S/P Barrier,Mullanpur,3,3.5
+241,Parol,Majra,5,2.4
+242,Boothgarh,Block,2,3.8
+243,Sialwa,JhandeMajra,4,5.2
+244,PGI,K/Lahora,1,5.6
+245,K/Lahora,S/P Barrier,1,5.9
+246,S/P Barrier,Mullanpur,5,1.8
+247,Majra,Balock,1,1.1
+248,Sec 43/44,42/43,5,1
+249,42/43,36/35,1,4.4
+250,23/22,ISBT-17,5,3.5
+251,ISBT-17,Aroma,2,2.8
+252,Aroma,21,4,5.7
+253,21,20 Mkts.,4,4.1
+254,19/27,26/27,2,0.5
+255,26/27,26/28 G.Mkt,1,3.6
+256,26/28 G.Mkt,R/C,4,2.1
+257,R/C,Kalagram,3,4.3
+258,Kalagram,H. Board,1,4.6
+259,Manimajra,Command Hospital,4,3.4
+260,Sec 43/44,42/43,4,2
+261,42/43,36/35,5,4.9
+262,36/35,K/Bhawan,2,4
+263,22/35,21/34,1,2
+264,20/33,30/32,4,1.9
+265,29/31 Tribune,H/Majra,1,3
+266,H/Majra,Colony No.4,1,4.7
+267,R/Station,Railway Crossing,5,1
+268,Railway Crossing,Kalagram,5,2.8
+269,Kalagram,H.B Chowk,2,4.3
+270,H.B Chowk,M/Majra,5,4.4
+271,M/Majra,Command Hospital. Tank Chowk.. (vice versa),2,2.1
+272,Sec-8/18,7/19,4,4.7
+273,7/19,26/27,3,2.6
+274,26/27,G.Mkt,1,0.7
+275,26/28,H/B,1,1.4
+276,M/Majra,Old Pkl,3,2.9
+277,Nada Sahib,Ramgarh,2,1.8
+278,Sec 43/44,42/43,3,4
+279,42/43,Sec-36/35 23/22,5,3.2
+280,ISBT-17,Sec 18 mkt,5,1.1
+281,Sec 19 mkt,Sec 27 mkt,4,3.6
+282,28 mkt,CTU w/s vice versa (Total Time). .(vice versa),3,3.3
+283,Sec-16/10,PGI,4,4
+284,PGI,K/Lahora,4,3.8
+285,K/Lahora,S/P Barrier,5,3.1
+286,S/P Barrier,Mullanpur,5,0.4
+287,Majra,Balock,2,2
+288,Balock,Manakpur,3,1.6
+289,Sangatpura,Kubaheri.. (vice versa),4,1.3
+290,42 Mkt,Sec-41 mkt,2,2.3
+291,Sec-41/40,Sec-54/55 (Franco),1,4.9
+292,Sec-59/58,Sec-72/73,3,3.9
+293,Sec75/74,Sec-75/90,1,2.1
+294,DC office Laknour,Landran and Vice versa,4,2
+295,Sec - 43/44,35/34,1,1.5
+296,35/34,K. Bhawan,2,0.4
+297,23/22,ISBT-17,3,3.1
+298,ISBT-17,18,3,5.5
+299,19,27 Mkts,4,5.5
+300,G/Mkt,R/Crossing,1,2
+301,R/Crossing,M/M Complex,1,4.9
+302,M/M Town,M/Majra,3,3.1
+303,M/Majra,Mansa Devi,2,1.3
+304,SP Barrier,Khuda Lahora,2,5.7
+305,PGI,New OPD,2,1
+306,New OPD,GH –16,2,3.1
+307,ISBT –17,Aroma,2,2.1
+308,Aroma,Sec-21 Mkt. Sec-20-Mkt,1,5.3
+309,Sec – 30 Mkt.,SEC-29 Mkt.,5,5.9
+310,Elante Mall,Poultry Farm,5,5.3
+311,Ind. Area Ph-I,Hallo Majra (vice versa),5,4.3
+312,SP Barrier,Khuda Lahora,1,4.7
+313,PGI,New OPD,2,4.6
+314,New OPD,GH –16,4,4.8
+315,Aroma,Sec-21 Mkt. Sec-20-Mkt,4,2.6
+316,Sec-21 Mkt. Sec-20-Mkt,Sec – 30 Mkt,5,4.1
+317,Elante Mall,Poultry Farm,4,2.5
+318,Sec-43/44,42/43,1,3.3
+319,42/43,36/35,5,5.9
+320,23/22,ISBT-17,5,5.8
+321,ISBT-17,17/18,2,0.8
+322,17/18,18,1,5.4
+323,R/Crossing,Kalagram,4,5.1
+324,Kalagram,H/B Chowk,1,5.4
+325,H/B Chowk,M/Majra .(vice versa),3,3.9
+326,Sec-43/44,35/34,4,2.1
+327,22/17,16/10,3,5.7
+328,16/10,11/10,4,4.1
+329,11/2,OPD.. (vice versa),3,3.3
+330,Sec-43/44,42/43,2,3.1
+331,42/43,36/35,3,1.7
+332,23/22,ISBT-17,2,4.4
+333,ISBT-17,17/18,3,0.8
+334,17/18,8/18,1,5.6
+335,7/19,26/27,1,5
+336,26/27,G/Mkt,3,4.8
+337,R/Crossing,Kalagram,1,0.9
+338,Kalagram,H/B Chowk,3,1.9
+339,M/Majra,Kishangarh,5,5.1
+340,Kishangarh,I.T.Park.. (vice versa),5,3.4
+341,OPD,Sec 11/2,4,5.9
+342,16/10 Hospital,17 B/Stand,4,4.4
+343,Aroma,21,4,0.8
+344,21,20 Mkts,4,1.6
+345,19/27,27 mkt,1,5.4
+346,27 mkt,28 mkt,3,4
+347,28 mkt,CTU w/s,4,1.2
+348,CTU w/s,R/S,2,1.3
+349,R/S,Railway Crossing,4,3.5
+350,Railway Crossing,Kalagram,5,5.7
+351,Kalagram,H/B,4,0.4
+352,M/Majra,Command Hosp. .(vice versa),3,1.2
+353,44/43,35/34,2,4
+354,35/34,23/22,2,4.7
+355,23/22,ISBT-17,4,3.3
+356,28 Mkt,Indl. area/Ph.1,5,0.8
+357,Rly. Station,Rly. Crossing,4,4.4
+358,Kalagram H/B. Chowk,M. Majra,5,4.6
+359,M. Hospital,old PKL,4,1.2
+360,Sec-43/44,35/34,5,3.5
+361,35/34,Sec 22 mkt,2,4.9
+362,23/22,ISBT-17,3,5.7
+363,ISBT-17,Aroma,3,5.9
+364,Aroma,21,3,1.8
+365,21,20,2,5.1
+366,30,29 mkts,3,5.3
+367,29 mkts,Elante Mall,2,3.8
+368,Elante Mall,Colony No.-4,4,1.9
+369,CTU w/s,R/Station Kalagram,2,3.8
+370,H/B Chowk,M/Majra. .(vice versa),1,4.2
+371,Sec-52/51,51 mkt,5,3.5
+372,Sec-51/50,45 mkt,5,0.5
+373,20/30,19/27,2,1.8
+374,19/27,27 mkt,1,3.6
+375,27 mkt,G/Mkt,3,0.7
+376,G/Mkt,TPT Chowk,3,4
+377,CTU w/s.Indl.Area.Ph-1,R/Station,4,2.1
+378,R/Crossing,Kalagram H/B Chowk,4,4.1
+379,Lakhnaur,Sohana,1,3.4
+380,R/Swami/71,SCL,4,1.1
+381,71,IVY,2,3.6
+382,Ph-5/3 B-II,Ph-4/3 B-I,5,1
+383,Ph-2/3A,F/Chowk,5,4.5
+384,42/53,ISBT-43,1,5.7
+385,ISBT-43,43/44,2,4.4
+386,35/34,22/21,2,5.7
+387,17/22,16 Hospital,4,3.3
+388,11/2,PEC,4,0.6
+389,PEC,N/OPD.. (vice versa),1,3.2
+390,43/44,42/43,5,3.8
+391,42/43,36/35,3,4.9
+392,23/22,ISBT-17,4,1.4
+393,ISBT-17,18 mkt,1,4.7
+394,27 mkt,27/28,1,1.2
+395,27/28,28 Mkt,2,4.4
+396,28 Mkt,CTU workshop,5,4.8
+397,Railway Crossing,Kalagram,5,0.9
+398,Kalagram,H/B,5,2.7
+399,M/Majra,Kishangarh. . (Vice versa),3,2.2
+400,Aroma,Sec-21 Mkt,2,2
+401,20/21,33/34,1,4.5
+402,44/45,ISBT43,3,2.5
+403,ISBT43,YPS,2,0.9
+404,69/70,Ph-7,3,4.9
+405,Lakhnaur,Landran,3,0.5
+406,Chappar Chiri,Sante Majra.. (vice versa),3,1.2
+407,Aroma,Sec-21 Mkt,5,3.5
+408,ISBT43,YPS,2,2.9
+409,YPS,Ph-7,2,5.4
+410,Ph-7,PSEB,3,1
+411,Sec-68/69 Sohana,Lakhnaur,3,0.8
+412,Lakhnaur,Landran,4,4.9
+413,Chappar Chiri,Sante Majra..(vice versa),2,3
+414,Aroma,Sec-35/22,2,1.9
+415,Kissan Bhawan,35/36,3,2.2
+416,41/37,41/40,2,4.9
+417,41/40,F/Chowk,2,5.1
+418,F/Chowk,Ph-2,3,4.6
+419,Ph-6,Balongi,4,1.8
+420,Daun,Desu Majra,3,1.7
+421,Via Aroma,Sec-35/22,5,0.7
+422,35/36,Sec 43/42,4,2.9
+423,ISBT-43,53/42,3,5.4
+424,F/Chowk,Ph-2,4,1.3
+425,Ph-6,Balongi,2,1
+426,Desu Majra,Mundi Kharar. .(vice versa),2,2.9
+427,Pb. Civil. Sectt.,PEC,2,2
+428,PEC,OPD,2,2
+429,OPD,PGI,4,5.1
+430,PGI,Sec11/15Sec11/15,2,4.2
+431,16/15,24/15,1,1.2
+432,24/15,25/14,5,2.9
+433,25/25,38/38W,5,4.1
+434,40/39,55/56,5,6
+435,Ph-6,Balongi,2,5.5
+436,Desu Majra,Mundi Kharar. .(vice versa),1,5.9
+437,Baltana,Raipur Kalan,5,3.2
+438,Mouli Jagaran,Hallo Majra,2,5.3
+439,Colony No.4,Elante Mall,5,1.9
+440,Elante Mall,Sec- 29 mkt,1,2.8
+441,30 mkt,20 mkt,1,3.8
+442,22/17,16/10,2,1.8
+443,16/10,PEC,3,5.2
+444,PEC,New OPD. .(vice versa),2,1.3
+445,OPD,Sec 11/2,5,5.2
+446,Sec 11/2,10/16,1,5.1
+447,ISBT-17,Aroma,3,4
+448,Aroma,Piccadilly Chowk,4,5.3
+449,30/32,29/31,3,1.8
+450,Hallo Majra,Airport,4,3.6
+451,Dc.office/ Lakhnaur,Sohana,5,4.8
+452,Sohana,Sec-69/68,5,5.9
+453,Fortis/ PSEB,Ph-7/8,2,2.5
+454,Yps Chowk,ISBT-43,4,1.3
+455,ISBT-43,Sec-44,1,2.5
+456,Sec45,Sec-46/47,2,2.2
+457,Sec-32/31( Hospital),Tribune Chowk,1,0.6
+458,Tribune Chowk,Hallo Majra,5,3
+459,Hallo Majra,Airport Chowk,3,5
+460,Zirakpur,Singhpura,4,0.7
+461,Bankharpur,And Vice Versa 20/33,3,2.9
+462,30/32,29/31,3,5.6
+463,Hallo Majra,Airport,1,5.7
+464,Airport,Zirakpur. .(vice versa),5,5.2
+465,Sec 43/44,42/43,3,1.6
+466,42/43,36/35,2,0.5
+467,36/35,Kissan Bhawan,1,5.2
+468,Kissan Bhawan,23/22,3,2.4
+469,23/22,ISBT-17,3,5.8
+470,ISBT-17,Aroma,5,0.9
+471,Aroma,Sec- 21/34,3,4.8
+472,Sec-20/33,Sec-30/32,1,4.3
+473,Tribune Chowk,Hallo Majra,3,2
+474,Hallo Majra,Airport Chowk,2,3.5
+475,Zirakpur,Bankharpur.. (vice versa),2,1.1
+476,S.P. Barrier,K.Lahora,5,2.3
+477,PGI,OPD,1,3.7
+478,OPD,10/11,3,1.3
+479,10/11,10/16,2,2.1
+480,ISBT-17,19/20,3,4
+481,28/29,28 P.P.,1,3.8
+482,CTU w/s,R/S,5,1.8
+483,R/S,Colony No. 4,2,5.1
+484,Hallo Majra,Airport,1,4
+485,Airport,Zirakpur,1,5.9
+486,Zirakpur,Dhakoli. (vice versa),5,2.9
+487,DMC,38w,2,1.4
+488,38 Mkt,37 Mkt,3,3.1
+489,37 Mkt,36 Mkt,1,6
+490,23/22,ISBT-17,5,0.5
+491,ISBT-17,8/18,1,4.6
+492,7/19,26/27,2,5.1
+493,26/28 G/Mkt,CTU/w/s,1,6
+494,R/Station,Kalagram,4,1.8
+495,Kalagram,H.B,3,4.9
+496,M/Majra.29,28 P.P.,3,4.3
+497,CTU w/s,R/S,5,3.9
+498,R/S,Colony No. 4,5,5.3
+499,Hallo Majra,Airport,5,2.5
+500,Airport,Zirakpur,1,2.8
+501,Zirakpur,Dhakoli. (vice versa),2,3
+502,OPD,10/16,2,0.6
+503,ISBT-17,Aroma,5,2.8
+504,Aroma,Piccadilly Chowk,4,0.6
+505,Piccadilly Chowk,21/34,5,3.8
+506,30/32,29/31,1,5.8
+507,Hallo Majra,Airport,5,3.1
+508,Airport,Zirakpur,1,5.3
+509,Zirakpur,Bankharpur,1,5.5
+510,Bankharpur,Mubarakpur. .(vice versa),4,4.3
+511,Via New OPD,Sec 11/2,3,5
+512,Sec 11/2,10/16 (Hospital),4,0.6
+513,ISBT-17,Aroma,2,0.6
+514,Aroma,21 mkt,2,1.9
+515,20 mkt,Sec-30/20 divided,4,3.8
+516,30/32 Hospital,29/31,4,4.4
+517,29/31,Tribune Chowk,2,3.7
+518,Tribune Chowk,Hallo Majra,4,0.8
+519,Hallo Majra,old Airport Chowk,4,5.7
+520,Zirakpur,Nabha Sahib,4,3
+521,Sec 11/2,10/16 (Hospital),5,2.1
+522,ISBT-17,Aroma,4,1.5
+523,Aroma,21 mkt,5,4.5
+524,20 mkt,Sec-30/20 divided,5,5.2
+525,29/31,Tribune Chowk,2,0.5
+526,Tribune Chowk,Hallo Majra,3,5.5
+527,Hallo Majra,old Airport Chowk,4,0.8
+528,Zirakpur,Nabha Sahib,1,1.9
+529,Nabha Sahib,Dialpura outer. . (Vice versa),2,1.8
+530,Sec 11/2,10/16 (Hospital),2,5.2
+531,ISBT-17,Aroma,1,3.1
+532,Aroma,21 mkt,3,4.4
+533,20 mkt,Sec-30/20 divided,5,5
+534,29/31,Tribune Chowk,3,1
+535,Tribune Chowk,Hallo Majra,5,4.3
+536,Hallo Majra,old Airport Chowk,3,4.5
+537,Zirakpur,Nabha Sahib,3,5.8
+538,Nabha Sahib,Dialpura outer. . (Vice versa),1,3.7
+539,OPD,10/16,5,5.7
+540,10/16,ISBT- 17,5,1
+541,Aroma,Sec-21,3,5
+542,20 Mkt,Sec-20/30,5,4.6
+543,32 Hospital,Tribune Chowk,2,2.5
+544,Tribune Chowk,Hallo Majra,3,3.4
+545,Hallo Majra,Airport,4,4.6
+546,Airport,Zirakpur,3,5
+547,Zirakpur,Dayalpura. .(vice versa),4,5.8
+548,Sec-65 mkt,64 mkt,5,4.2
+549,63 mkt,51/63,4,4.2
+550,51 mkt,ISBT-43,1,2.4
+551,ISBT-43,Sec-43/44,2,2.3
+552,Sec-43/44,35/34,1,2.3
+553,22/17,16 Hospital,1,3.2
+554,16 Hospital,Sec-11 mkt,2,0.7
+555,OPD,PGI,5,4
+556,24 mkts,24/25,1,5.9
+557,38/25,38west,5,2.3
+558,Maloya,38/39,1,3.2
+559,38/39,38 mkt,1,0.8
+560,ISBT-43,Attawa,2,0.5
+561,22 mkt,23/22,2,4.2
+562,Ph-6,Frenko,1,1.3
+563,Sec40/41,41 Mkt,1,6
+564,42 Mkt,ISBT- 43,1,5.7
+565,43/44,42/43,5,3.8
+566,42/43,36/35,4,1.7
+567,23/22,ISBT17,2,2.4
+568,ISBT17,8/18,2,3.6
+569,7/19,26/27,4,1.9
+570,26/27,26 G/Mkt,4,5.6
+571,R/Crossing,Kalagram,2,1.9
+572,Kalagram,H/B,1,1.6
+573,H/B,M/Majra. (vice versa),3,4.7
+574,Indl.Area Ph-9,Mohali,2,1.7
+575,Sec-66/67,67/68,1,2.4
+576,67/68,68 outer,5,3.5
+577,69/68,Kumbra,2,2.3
+578,Edu.Board Pb.,Forties,1,3.5
+579,B/S Mohali,Ph-7,2,5.8
+580,Ph-7,Chawla Chowk,1,0.6
+581,Ph-3/7,52/61,3,0.8
+582,YPS Chowk,ISBT-43,3,5.1
+583,ISBT-43,43/44,2,0.9
+584,43/44,42/43,2,3
+585,42/43,36/35,3,5.3
+586,23/22,ISBT-17,5,1
+587,ISBT-17,22/17,3,5.8
+588,22/17,16/10,3,0.6
+589,16/10,11/10,2,5.8
+590,11/2,OPD. .(vice versa),5,2.7
+591,10/11,10/16,5,2.4
+592,10/16,ISBT17,3,1.9
+593,ISBT17,8/18,4,1.5
+594,7/19,26/27,1,2.8
+595,26/27,Grain Market,3,0.8
+596,CTU Workshop,R. Station,4,3.8
+597,Kalagram,H. Board,1,1
+598,Manimajra,Indira Colony,4,2.1
+599,Indira Colony,Kishangarh,2,2.8
+600,Sec 43/44,42/43,1,5
+601,42/43,36/35,5,4
+602,23/22,ISBT-17,3,0.4
+603,ISBT-17,Aroma,2,1.2
+604,Aroma,21 Mkt,5,2.4
+605,20 Mkt,19/27,3,1.3
+606,19/27,27 Mkt,1,1.8
+607,27 Mkt,26/28 Grain Mkt,5,0.7
+608,Railway Crossing,Kalagram H. B. Chowk,3,3.5
+609,9/16 Pkl,10/15,4,2
+610,11/12,Raily Chowk,2,3.5
